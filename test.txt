@@ -1,0 +1,3 @@
+working directory   stagging area       local repository    remote repository
+
+folder      git add .       git commit -m       git push

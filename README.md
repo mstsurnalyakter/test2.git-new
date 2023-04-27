@@ -20,9 +20,12 @@ ls
 ls -
 git reset --soft HEAD^
 
-
+git show
+git show head
 ```
 
 ```
 git reset --soft HEAD^
+git show
+git show head
 ```
